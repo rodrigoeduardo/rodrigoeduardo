@@ -4,6 +4,8 @@
 
 I'm an enthusiast of technology and programming. Currently, I study IT at IFRN - Campus Parnamirim.
 
+Front-end developer! 💻
+
 17 years old 🤠
 
 Brazilian, RN 🌴
