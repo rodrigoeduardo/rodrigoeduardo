@@ -6,7 +6,7 @@ I'm an enthusiast of technology and programming. Currently, I study IT at IFRN -
 
 Front-end developer! 💻
 
-17 years old 🤠
+18 years old 🤠
 
 Brazilian, RN 🌴
 
