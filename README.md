@@ -1,5 +1,7 @@
 # Rodrigo Eduardo
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoeduardo&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide=issues)
+
 ## Hello, everybody 😁
 
 I'm an enthusiast of technology and programming. Currently, I study IT at IFRN - Campus Parnamirim and I pursue my dream to be a great Web Developer! 💻
