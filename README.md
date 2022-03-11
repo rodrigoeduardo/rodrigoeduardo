@@ -4,7 +4,7 @@
 
 ## Hello, everybody 😁
 
-I'm an enthusiast of technology and programming. Currently, I study IT at IFRN - Campus Parnamirim and I pursue my dream to be a great Web Developer! 💻
+I'm an enthusiast of technology and programming. Currently, I study IT at UFRN and I pursue my dream to be a great Web Developer! 💻
 
 18 years old 🤠
 
