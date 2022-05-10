@@ -6,7 +6,7 @@
 
 I'm an enthusiast of technology and programming. Currently, I study IT at UFRN and I pursue my dream to be a great Web Developer! 💻
 
-18 years old 🤠
+19 years old 🤠
 
 I live in Natal, Rio Grande do Norte, Brazil 🌴
 
